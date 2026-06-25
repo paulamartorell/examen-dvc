@@ -1,2 +1,7 @@
 /venv
 /clean_data.csv
+
+env/
+env-dvc/
+__pycache__/
+*.pyc
